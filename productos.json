@@ -1,0 +1,47 @@
+{
+    "productos": [
+      {
+        "id": 1,
+        "titulo": "Alas de Sangre",
+        "precio": 990,
+        "imagen": "./img/Libro1.png",
+        "descripcion": "Rebecca Yarros"
+      },
+      {
+        "id": 2,
+        "titulo": "El Vizconde que me amó",
+        "precio": 790,
+        "imagen": "./img/Libro2.png",
+        "descripcion": "Julia Quinn"
+      },
+      {
+        "id": 3,
+        "titulo": "Harry Potter y la piedra filosofal",
+        "precio": 600,
+        "imagen": "./img/Libro3.png",
+        "descripcion": "J.K. Rowling"
+      },
+      {
+        "id": 4,
+        "titulo": "Culpa Mia",
+        "precio": 690,
+        "imagen": "./img/Libro4.png",
+        "descripcion": "Mercedes Ron"
+      },
+      {
+        "id": 5,
+        "titulo": "Dimelo Bajito",
+        "precio": 890,
+        "imagen": "./img/Libro5.png",
+        "descripcion": "Mercedes Ron"
+      },
+      {
+        "id": 6,
+        "titulo": "La casa de los espiritus",
+        "precio": 590,
+        "imagen": "./img/Libro6.png",
+        "descripcion": "Isabel Allende"
+      }
+    ]
+  }
+  
